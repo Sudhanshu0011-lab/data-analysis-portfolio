@@ -1,0 +1,8 @@
+table,rows,exported_utc
+fact_eid_published_rows,435535,2026-10-12T23:17:05+00:00
+dim_instrument,6036,2026-10-12T23:17:05+00:00
+dim_date,11,2026-10-12T23:17:05+00:00
+dim_mechanism,4,2026-10-12T23:17:05+00:00
+dim_time_from,840,2026-10-12T23:17:05+00:00
+dim_time_to,840,2026-10-12T23:17:05+00:00
+eid_export_audit,15,2026-10-12T23:17:05+00:00
